@@ -1,0 +1,16 @@
+PODS:
+  - AugPodsList (0.1.0)
+
+DEPENDENCIES:
+  - AugPodsList (from `../`)
+
+EXTERNAL SOURCES:
+  AugPodsList:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AugPodsList: 3ca9564ce5bb408893c19a682549a77bb05fce4e
+
+PODFILE CHECKSUM: e81d5b5e96677836f60e094d48ae8851e5ac0d47
+
+COCOAPODS: 1.3.1

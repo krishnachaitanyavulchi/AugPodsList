@@ -1,0 +1,6 @@
+framework module AugPodsList {
+  umbrella header "AugPodsList-umbrella.h"
+
+  export *
+  module * { export * }
+}
