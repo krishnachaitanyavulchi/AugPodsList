@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AugPodsList_Tests' do
+  pod 'AugPodsList', :path => '../'
+  
+  
+end
